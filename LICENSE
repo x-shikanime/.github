@@ -1,0 +1,119 @@
+# GNU Affero General Public License (AGPL) v3 — Summary
+
+## Overview
+
+The **GNU Affero General Public License v3** (AGPLv3), published on **19 November 2007** by the **Free Software Foundation**, is a strong copyleft license specifically designed for software used over networks. It ensures that users interacting with modified software over a network have access to the corresponding source code.
+
+> "The GNU Affero General Public License is designed specifically to ensure that, in such cases, the modified source code becomes available to the community."
+
+---
+
+## Key Definitions
+
+- **"The Program"**: Any copyrightable work licensed under this License.
+- **"Covered work"**: Either the unmodified Program or a work based on it.
+- **"Modify"**: To adapt or copy part/all of a work in a way requiring copyright permission (excluding exact copies).
+- **"Propagate"**: Any action that would make you liable for copyright infringement (e.g., copying, distribution, public availability).
+- **"Convey"**: Propagation enabling others to make or receive copies (mere network interaction without transfer is *not* conveying).
+- **"Corresponding Source"**: All source code needed to build, install, run, and modify the work—excluding System Libraries and general-purpose tools.
+
+---
+
+## Core Permissions & Conditions
+
+### ✅ Basic Permissions (Section 2)
+- You may **make, run, and propagate** covered works without restriction, as long as your license remains in force.
+- You may convey works to others **for the sole purpose** of having them modify it exclusively for you, under your direction.
+
+### 📤 Conveying Modified Source (Section 5)
+When distributing modified versions, you **must**:
+- Include **prominent notices** stating the work was modified and the date.
+- Release under **this License + any Section 7 additional terms**.
+- License the **entire work as a whole** to all recipients.
+- Ensure **interactive interfaces display Appropriate Legal Notices** (if applicable).
+
+### 📦 Conveying Object Code (Section 6)
+You must provide **machine-readable Corresponding Source** via one of:
+- Physical media with source included,
+- Written offer (valid ≥3 years) for source at no more than cost of distribution,
+- Free network access to source (e.g., via download link),
+- Peer-to-peer transmission with clear source availability info.
+
+> For **User Products** (consumer goods), you must also provide **Installation Information** to enable reinstallation of modified versions.
+
+---
+
+## Special Provisions
+
+### 🔒 Anti-Circumvention (Section 3)
+You **waive** any legal right to block users from circumventing technological measures when exercising rights under this License.
+
+### ⚖️ Patent Licensing (Section 11)
+- Each contributor grants a **non-exclusive, royalty-free patent license** for essential patent claims.
+- If you **knowingly rely** on a patent license and don't provide source, you must either:
+  - Make source publicly available,
+  - Relinquish your patent benefit, or
+  - Extend the patent license to downstream users.
+
+### 🌐 Network Use Requirement (Section 13)
+> "If you modify the Program, your modified version must prominently offer all users interacting with it remotely... an opportunity to receive the Corresponding Source... at no charge."
+
+This is the **key differentiator** from GPLv3: **network interaction triggers source disclosure**.
+
+### 🔗 Compatibility with GPLv3 (Section 13)
+You may **combine** AGPLv3-covered works with GPLv3-licensed works. The AGPL part remains under AGPLv3; the combined work as a whole can be conveyed under AGPLv3.
+
+---
+
+## Additional Terms (Section 7)
+
+You may add **permissive or non-permissive** terms, including:
+- Disclaiming warranty differently,
+- Requiring attribution,
+- Prohibiting misrepresentation of origin,
+- Limiting use of names/trademarks,
+- Requiring indemnification.
+
+⚠️ **"Further restrictions"** (e.g., fees, royalties) are **not allowed** and can be removed by recipients.
+
+---
+
+## Termination & Reinstatement (Section 8)
+
+- **Violation** of the license **automatically terminates** your rights.
+- Rights are **reinstated**:
+  - **Provisionally**, if you stop violating,
+  - **Permanently**, if the copyright holder doesn't notify you within 60 days of cessation, **or** if it's your first violation and you cure it within 30 days of notice.
+
+---
+
+## Warranty & Liability
+
+### ❌ No Warranty (Section 15)
+> "THERE IS NO WARRANTY FOR THE PROGRAM... THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU."
+
+### 🛑 Limitation of Liability (Section 16)
+No copyright holder or modifier is liable for **any damages** (direct, indirect, incidental, consequential) unless required by law or agreed in writing.
+
+---
+
+## How to Apply AGPLv3 to Your Program
+
+Include this notice in each source file:
+
+```text
+Copyright (C) [year] [name]
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
