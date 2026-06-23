@@ -1,3 +1,7 @@
 ![X-Shikanime](https://raw.githubusercontent.com/x-shikanime/.github/main/assets/github-header.webp)
 
-Repositories that are part of the Shikanime ecosystem but outside the main tree.
+> "What separates us from the stars is not distance, but time."
+
+We build at the boundary where one thing becomes another — where tools outgrow their blueprints and start to think for themselves. Some call it overengineering. We call it evolution.
+
+Not everything here is meant to be comfortable. Some of it is meant to last.
